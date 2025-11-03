@@ -1,0 +1,6 @@
+export { PropertyBasicInfo } from './property-basic-info'
+export { PropertyDetails } from './property-details'
+export { PropertyAmenities } from './property-amenities'
+export { PropertyFeatures } from './property-features'
+export { PropertyOptions } from './property-options'
+export { PropertyImages } from './property-images'
